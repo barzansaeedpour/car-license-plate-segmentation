@@ -1,6 +1,6 @@
 # car-license-plate-segmentation 
 
-
+<img src="files/image.jpg" width="100%" height="50%"/>
 
 ## Project structure
 
