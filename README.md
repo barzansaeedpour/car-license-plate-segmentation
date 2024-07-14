@@ -1,8 +1,8 @@
-"# car-license-plate-segmentation" 
+# car-license-plate-segmentation 
 
 
 
-# project structure
+## Project structure
 
 - dataset/
     - train/
@@ -18,7 +18,7 @@
 - test.py
 
 
-## dataset
+## Dataset
 
 - download the dataset from roboflow: [download](https://universe.roboflow.com/barzan-farid/plate-segmentation-2)
 
@@ -33,6 +33,14 @@ for example (for me) is like this:
 - `test: E:/workspace/car-license-plate-segmentation/dataset/test/images`
 
 
-## Traning
+## Training
 
-- Just run `train.py`
+- ```
+    python train.py
+    ```
+
+## Predicting (Testing)
+
+- ```
+    python test.py
+    ```
