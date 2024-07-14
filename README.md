@@ -31,3 +31,8 @@ for example (for me) is like this:
 - `train: E:/workspace/car-license-plate-segmentation/dataset/train/images`
 - `val: E:/workspace/car-license-plate-segmentation/dataset/valid/images`
 - `test: E:/workspace/car-license-plate-segmentation/dataset/test/images`
+
+
+## Traning
+
+- Just run `train.py`
